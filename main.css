@@ -1,0 +1,140 @@
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+
+  }
+
+.right-price {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.left-name {
+    text-align: center;
+    font-size: 70px;
+}
+
+.head-bar {
+    text-align: center;
+    margin-top: 0px;
+    background-color: #006ee6;
+    width: 100% !important;
+    padding-top: 60px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    min-width: 100%;
+}
+
+.rk-1 {
+    align-content: left;
+    padding-left: 150px;
+}
+
+.coin-left {
+    padding-top: 100px;
+    padding-right: 200px;
+}
+
+.rk-2 {
+    margin-left: auto;
+    float: right;
+    display: block;
+    padding-right: 150px;
+}
+
+.star-right {
+    padding-top: 100px;
+    padding-right: 20px;
+    padding-left: 200px;
+}
+
+.rockets {
+    display: flex;
+    padding-top: 50px;
+    background-color: red;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 50px;
+}
+
+.bod-txt1 {
+    margin-left: auto;
+    display: flex;
+    text-align: center;
+}
+
+.intro-txt {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.addr {
+    font-size: 12px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.instruct-parent {
+    width: 100%;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.p-con {
+    text-align: center;
+}
+
+.instructions {
+    width: 600px;
+}
+
+.htb {
+    font-size: 44px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.steps {
+    font-size: 29px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.step-detail {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.green-div {
+    background-color: #35f0b7;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.socials {
+    background-color: #35e2f0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.soc {
+    font-size: 29px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
