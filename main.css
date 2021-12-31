@@ -1,28 +1,36 @@
 h1 {
     font-family: 'Open Sans', sans-serif;
-    color: white;
+    
 
   }
 
 .right-price {
     text-align: center;
     padding-bottom: 30px;
+    color: black;
 }
 
 .left-name {
     text-align: center;
     font-size: 70px;
+    color: black;
 }
 
 .head-bar {
     text-align: center;
     margin-top: 0px;
-    background-color: #006ee6;
+    background-color: white;
     width: 100% !important;
     padding-top: 60px;
     overflow-x: hidden;
     overflow-y: hidden;
     min-width: 100%;
+}
+
+.movie-div {
+    justify-content: center;
+    display: flex;
+    background-color: #35e2f0;
 }
 
 .rk-1 {
@@ -51,7 +59,7 @@ h1 {
 .rockets {
     display: flex;
     padding-top: 50px;
-    background-color: red;
+    background-color: #35e2f0;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
@@ -114,7 +122,7 @@ h1 {
 }
 
 .green-div {
-    background-color: #35f0b7;
+    background-color: #35e2f0;
     padding-top: 60px;
     padding-bottom: 60px;
     display: flex;
